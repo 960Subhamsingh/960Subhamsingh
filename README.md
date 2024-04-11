@@ -1,10 +1,8 @@
- 
  Hi, I’m Subham Kumar
- 
- InterestedL
+  InterestedL
  I'm  interested  in data analyst and analytics
  
- programming language:-  python, java , javascript
+programming language:-  python, java , javascript
 Python  Programming libraries:- Numpy , pandas , plotly 
 Database language:-  Oracle Database , MySql
    
