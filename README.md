@@ -8,7 +8,7 @@ InterestedL
  
 Python libraries: Numpy , pandas , plotly 
 
-Database language: Oracle Database , MySql   
+Database language: Oracle , MySql , Postgresql 
 
 I’m currently learning  in Master of computer Application
  
