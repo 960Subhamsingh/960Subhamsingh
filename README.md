@@ -14,7 +14,7 @@ I’m currently learning  in Master of computer Application
  
  Skills:
 
-<h1 style="font-size: 28px;" > &#128161; Skill </h1>
+<h1 style="font-size: 18px;" > &#128161; Skill </h1>
 <ul>
         <li>Python</li>
         <li>PowerBI</li>
