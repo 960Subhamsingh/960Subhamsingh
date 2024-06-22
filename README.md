@@ -12,3 +12,18 @@ Database language: Oracle , MySql , Postgresql
 
 I’m currently learning  in Master of computer Application
  
+ Skills:
+
+<h1>Skill</h1>
+<ul>
+        <li>Python</li>
+        <li>PowerBI</li>
+        <li>SQL</li>
+        <li>Data Analysis</li>
+        <li>Statistical Modeling</li>
+        <li>Data Visualization</li>
+     </ul>
+ 
+ 
+ 
+ 
