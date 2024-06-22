@@ -14,7 +14,7 @@ I’m currently learning  in Master of computer Application
  
  Skills:
 
-<h1>Skill</h1>
+<h1 style="font-size: 38px;" > &#128161; Skill </h1>
 <ul>
         <li>Python</li>
         <li>PowerBI</li>
@@ -24,6 +24,7 @@ I’m currently learning  in Master of computer Application
         <li>Data Visualization</li>
      </ul>
  
+ <h1>Connect With me </h1>
  
  
  
