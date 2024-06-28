@@ -9,9 +9,9 @@
  
 👀 Interested
 
-🔭 I’m currently working on Data Science Mentorship Program
+🔭 I’m currently working on Data Science Mentorship Program <br>
 🌱 I’m currently learning SQL
-<br>
+ 
  I'm  interested  in data analyst and analytics
  
  
