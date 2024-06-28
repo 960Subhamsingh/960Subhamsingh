@@ -11,6 +11,7 @@
 
 🔭 I’m currently working on Data Science Mentorship Program
 🌱 I’m currently learning SQL
+<br>
  I'm  interested  in data analyst and analytics
  
  
