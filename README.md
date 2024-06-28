@@ -9,7 +9,10 @@
  
 👀 Interested
 
+🔭 I’m currently working on Data Science Mentorship Program
+🌱 I’m currently learning SQL
  I'm  interested  in data analyst and analytics
+ 
  
  programming language: python, java , javascript
  
