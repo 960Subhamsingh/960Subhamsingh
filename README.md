@@ -14,8 +14,8 @@
  
  I'm  interested  in data analyst and analytics
  
- 
- programming language: python, java , javascript
+
+programming language: python, javascript
  
 Python libraries: Numpy , pandas , plotly 
 
@@ -35,7 +35,7 @@ I’m currently learning  in Master of computer Application
         <li>Data Visualization</li>
      </ul>
  
- <h1>Connect With me </h1>
+ <h1>contact me to linkedin </h1>
  <a href="https://www.linkedin.com/in/ksubham">Linkden</a>
  
 
