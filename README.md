@@ -17,7 +17,7 @@
 
 - 👨‍💻 My **Tableau** Projects are at: [Subham Kumar - Tableau Public](https://public.tableau.com/app/profile/subham.kumar6446/vizzes)
 
-- 📫 Email me at: **priyanka.jha.social@gmail.com**
+- 📫 Email me at: **kumarsubham0734@gmail.com**
 
 - ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita.**
 
